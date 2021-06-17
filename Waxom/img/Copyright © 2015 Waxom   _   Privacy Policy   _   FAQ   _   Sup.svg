@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="401" height="14" viewBox="0 0 401 14">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 13px;
+        fill: #555;
+        font-family: Montserrat;
+        font-weight: 300;
+      }
+
+      .cls-2 {
+        fill: #959595;
+      }
+
+      .cls-3 {
+        fill: #252525;
+      }
+
+      .cls-4 {
+        fill: #c7b299;
+      }
+    </style>
+  </defs>
+  <text id="Copyright_2015_Waxom_Privacy_Policy_FAQ_Sup" data-name="Copyright © 2015 Waxom   |   Privacy Policy   |   FAQ   |   Sup" class="cls-1" x="0.218" y="0.998">Copyright © 2015 <tspan class="cls-2">Waxom<tspan class="cls-3">   |   </tspan></tspan>Privacy Policy<tspan class="cls-3">   |   <tspan class="cls-4">FAQ</tspan>   |   </tspan>Support</text>
+</svg>
